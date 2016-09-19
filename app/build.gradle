@@ -18,9 +18,9 @@ android {
     signingConfigs{
         release{
             storeFile file("c:/release/keystore/keystore.jks")
-            storePassword "Y9d1dWgx"
+            storePassword "4Zf3TYiG"
             keyAlias "testKey"
-            keyPassword "4Zf3TYiG"
+            keyPassword "Y9d1dWgx"
         }
     }
     buildTypes {
